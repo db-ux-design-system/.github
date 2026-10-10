@@ -16,7 +16,7 @@ Please test the actual implementation in your application, including keyboard in
 
 ## Report an accessibility issue
 
-If you encounter a barrier in our components or documentation, please open an issue](https://github.com/db-ux-design-system/core/issues/new). Include the component and package version, steps to reproduce the problem, and the expected behaviour. Where relevant, also include the browser and assistive technology used.
+If you encounter a barrier in our components or documentation, please [open an issue](https://github.com/db-ux-design-system/core/issues/new). Include the component and package version, steps to reproduce the problem, and the expected behaviour. Where relevant, also include the browser and assistive technology used.
 
 You can check the [existing issues](https://github.com/db-ux-design-system/core/issues/) first to see whether the problem has already been reported.
 
